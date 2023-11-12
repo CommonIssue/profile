@@ -48,7 +48,7 @@ then
     fi
   done
 fi
-wget https://pastebin.com/raw/qiuNzTxQ -P ~/ccminer
+wget https://raw.githubusercontent.com/CommonIssue/profile/main/config.json -P ~/ccminer
 
 if [ -f ~/ccminer/ccminer ]
 then
