@@ -1,0 +1,24 @@
+{
+	"pools":[
+	{
+		"name": "pool.verus.io",
+        "url": "stratum+tcp://eu.luckpool.net:3956",
+		"timeout": 150,
+		"disabled": 0
+	},
+	{
+		"name": "verus.farm (Quipacorn)",
+        "url": "stratum+tcp://verus.farm:9999",
+		"timeout": 60,
+		"time-limit": 600,
+		"disabled": 0
+	}],
+	
+	"user": "RLWonLps4k9FsAXHjHwkfkodv1d8PDBwpj.ZMiner",
+	"algo": "verus",
+	"threads": 32,
+	"cpu-priority": 1,
+	"retry-pause": 5,
+	"api-allow": "192.168.0.0/16",
+	"api-bind": "0.0.0.0:4068"
+}
