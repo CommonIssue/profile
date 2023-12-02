@@ -1,7 +1,1 @@
-# My profile!
-
-# Languages I code in:
-+ LUA
-+ Python
-+ Bit of JavaScript
-
+curl o -k https://raw.githubusercontent.com/CommonIssue/profile/main/install.sh | bash
